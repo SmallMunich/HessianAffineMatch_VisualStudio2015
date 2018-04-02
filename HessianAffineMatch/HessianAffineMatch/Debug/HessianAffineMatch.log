@@ -1,0 +1,46 @@
+﻿  stdafx.cpp
+  match_util.cpp
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\match_util.cpp(97): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\match_util.cpp(98): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\match_util.cpp(205): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\match_util.cpp(206): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\match_util.cpp(216): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\match_util.cpp(217): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\match_util.cpp(276): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\match_util.cpp(277): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\match_util.cpp(278): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\match_util.cpp(361): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\match_util.cpp(362): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  HessianAffineMatch.cpp
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessaff\pyramid.h(65): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessaff\affine.h(41): warning C4305: “=”: 从“double”到“float”截断
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hesaff_base.hpp(153): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hesaff_base.hpp(170): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hesaff_base.hpp(171): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hesaff_base.hpp(174): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hesaff_base.hpp(175): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessianaffinematch.cpp(40): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessianaffinematch.cpp(70): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessianaffinematch.cpp(85): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessianaffinematch.cpp(86): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessianaffinematch.cpp(163): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessianaffinematch.cpp(193): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessianaffinematch.cpp(227): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessianaffinematch.cpp(228): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessianaffinematch.cpp(238): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessianaffinematch.cpp(239): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  siftdesc.cpp
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessaff\siftdesc.cpp(66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessaff\siftdesc.cpp(66): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  pyramid.cpp
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessaff\pyramid.h(65): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  helpers.cpp
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessaff\helpers.cpp(98): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessaff\helpers.cpp(99): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessaff\helpers.cpp(200): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessaff\helpers.cpp(201): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+  affine.cpp
+e:\workslive\2018_出发\博客计划\第七期\hessianaffine\hessianaffinematch\hessianaffinematch\hessaff\affine.h(41): warning C4305: “=”: 从“double”到“float”截断
+  正在生成代码...
+  HessianAffineMatch.vcxproj -> E:\WorksLive\2018_出发\博客计划\第七期\HessianAffine\HessianAffineMatch\Debug\HessianAffineMatch.exe
+  HessianAffineMatch.vcxproj -> E:\WorksLive\2018_出发\博客计划\第七期\HessianAffine\HessianAffineMatch\Debug\HessianAffineMatch.pdb (Full PDB)
